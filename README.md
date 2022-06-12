@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Start Machine Learning project.
 
 ### Software and account Requirement.
@@ -28,3 +29,6 @@ git log (to check versions)
 git add .
 git commint -m "message"
 git push origin main
+=======
+# ML_Project1
+>>>>>>> ca56851f61e37effdefafa3760d7d928bad628d3
