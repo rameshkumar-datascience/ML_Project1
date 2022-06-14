@@ -61,6 +61,13 @@ To check remote url
 git remote -v
 ```
 
+C-D process
+```
+A vm will be allocated from github to check the changes to main branch,
+if there are any changes to main branch Docker image started building in github vm
+and it will be sent to Heroku.
+```
+
 To setup CI/CD pipeline in heroku we need 3 information
 1. HEROKU_EMAIL = rameshmangali947@gmail.com
 2. HEROKU_API_KEY = <>
