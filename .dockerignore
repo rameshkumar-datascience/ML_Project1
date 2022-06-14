@@ -1,4 +1,6 @@
 MLP1/
 MLP1
-.git/
 .git
+.git/
+.gitignore
+.gitignore/
