@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.idea
+.idea/
+idea
+idea/
 
 # C extensions
 *.so
@@ -113,9 +117,6 @@ venv.bak/
 MLP1
 MLP1/
 MLP1.bak/
-.idea
-idea/
-.idea/
 =======
 
 >>>>>>> ca56851f61e37effdefafa3760d7d928bad628d3
