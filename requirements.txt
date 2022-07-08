@@ -3,6 +3,7 @@ Flask
 gunicorn
 sklearn
 pandas
+matplotlib
 PyYAML
 evidently
 -e .
